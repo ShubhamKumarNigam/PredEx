@@ -13,3 +13,9 @@
 ### Gemini pro
 1. [Gemini-pro_prediction.csv](https://drive.google.com/file/d/1yW_jg2yhkI8wBDG-w5l15wQlPtYs3o1p/view?usp=sharing)
 2. [Gemini-pro_prediction_explanation.csv](https://drive.google.com/file/d/1tYYLyHFmvAGan3tEPSopLtIZpCEDWlK0/view?usp=sharing)
+
+### Transformers
+1. [Xlnet_prediction.csv](https://drive.google.com/file/d/1zPkQHN2NRwd2kK2WzPlf7MDI74TbdnG7/view?usp=sharing)
+2. [Roberta_prediction.csv](https://drive.google.com/file/d/1zb8lRFIOa8r6v0_UopD-QRJUHzo6UfZx/view?usp=sharing)
+3. [InLegalBert_prediction.csv](https://drive.google.com/file/d/1FedwGpUsUmbZuzS-n6AHx5YTQxkQi-bH/view?usp=sharing)
+4. [InCaseLaw_prediction.csv](https://drive.google.com/file/d/1U7BaM1rGHBERASFXOII7kHL1fDdQx77Z/view?usp=sharing)
