@@ -42,7 +42,7 @@ Here is an instruction that describes a task, paired with an input (Case text) t
 {case_decision}
 ```
 
-
+ 
 Prompt for prediction and explanation:
 ```
 Here is an instruction that describes a task, paired with an input (Case text) that provides further context. The case decision and explanation for the decision are given.
