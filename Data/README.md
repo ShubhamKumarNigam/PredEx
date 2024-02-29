@@ -18,7 +18,6 @@ Case Decision: 0/1
 |----------|----------|
 | Analyze the case proceeding and predict whether the appeal/petition will be accepted (1) or rejected (0). | First, predict whether the appeal in case proceeding will be accepted (1) or not (0), and then explain the decision by identifying crucial sentences from the document. |
 
-### Instructions
 * [instruction_sets.csv](https://drive.google.com/file/d/1YfFzL-0NgFvHWmvlz_vRVrjkw1SwF-dL/view?usp=sharing)
 
 ### Fine-tuning data:
