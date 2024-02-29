@@ -1,16 +1,20 @@
-
-
+### Train and test set:
 | Case Name | Input | Output | Label | Count | Decision Count |
 |----------|----------|----------|----------|----------|----------|
-| Petitioner vs. Respondent | Case Text | Decision[ds]Explanation | Case Decision | Tokens in case text | Tokens in Explanation text |
+| Petitioner vs. Respondent | Case Text | Case Decision[ds]Explanation | Case Decision | Tokens in case text | Tokens in Explanation text |
 
-Decision: 0/1
-Case Decision: Accepted/Rejected
+Case Decision: 0/1
 
 ### Train
 * [train.csv](https://drive.google.com/file/d/1eBuQuul8alMDakQTC2TRKN_WzbNQlON3/view?usp=sharing)
 ### Test
 * [test.csv](https://drive.google.com/file/d/1COs3uBBgYz4O09LNL1Slnylxeei02ekp/view?usp=sharing)
+
+### Instructions for Instruction Fine-tuning:
+| Instructions	 | Instructions_Exp |
+|----------|----------|
+| Analyze the case proceeding and predict whether the appeal/petition will be accepted (1) or rejected (0). | First, predict whether the appeal in case proceeding will be accepted (1) or not (0), and then explain the decision by identifying crucial sentences from the document. |
+
 ### Instructions
 * [instruction_sets.csv](https://drive.google.com/file/d/1YfFzL-0NgFvHWmvlz_vRVrjkw1SwF-dL/view?usp=sharing)
 ### Fine-tuning data
