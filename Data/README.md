@@ -4,6 +4,9 @@
 |----------|----------|----------|----------|----------|----------|
 | Petitioner vs. Respondent | Case Text | Decision[ds]Explanation | Case Decision | Tokens in case text | Tokens in Explanation text |
 
+Decision: 0/1
+Case Decision: Accepted/Rejected
+
 ### Train
 * [train.csv](https://drive.google.com/file/d/1eBuQuul8alMDakQTC2TRKN_WzbNQlON3/view?usp=sharing)
 ### Test
