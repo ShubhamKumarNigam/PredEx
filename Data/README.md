@@ -21,7 +21,7 @@ Case Decision: 0/1
 * [instruction_sets.csv](https://drive.google.com/file/d/1YfFzL-0NgFvHWmvlz_vRVrjkw1SwF-dL/view?usp=sharing)
 
 ### Fine-tuning data:
-Training set: 10961 cases (90% of Train set)
+Training set: 10961 cases (90% of Train set) <br /> 
 Validation set: 1217 cases (10% of Train set)
 | Case Name | Input | Output | Label | Count | Decision Count | text |
 |----------|----------|----------|----------|----------|----------|----------|
