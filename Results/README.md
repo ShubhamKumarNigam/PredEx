@@ -19,3 +19,7 @@
 2. [Roberta_prediction.csv](https://drive.google.com/file/d/1zb8lRFIOa8r6v0_UopD-QRJUHzo6UfZx/view?usp=sharing)
 3. [InLegalBert_prediction.csv](https://drive.google.com/file/d/1FedwGpUsUmbZuzS-n6AHx5YTQxkQi-bH/view?usp=sharing)
 4. [InCaseLaw_prediction.csv](https://drive.google.com/file/d/1U7BaM1rGHBERASFXOII7kHL1fDdQx77Z/view?usp=sharing)
+
+### Expert Scores
+1. [PredEx_score.csv](https://drive.google.com/file/d/1Hu7r9O5JCnsK6TYCEFYoKHNJGPAt5wl_/view?usp=sharing)
+2. [ILDC_Expert_score.csv](https://drive.google.com/file/d/1Y7yvmfBSmh7D5LLQY6vKBTNrgk_mUZDY/view?usp=sharing)
