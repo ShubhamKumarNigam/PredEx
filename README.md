@@ -1,5 +1,5 @@
 # Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts (ACL 2024)
-![task_desc.jpg](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
+![task_desc](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
 
 This is the official implementation of the paper:
 
