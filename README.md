@@ -1,5 +1,5 @@
 # Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts (ACL 2024)
-![task_desc.jpg](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
+![task_desc](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
 
 This is the official implementation of the paper:
 
@@ -67,7 +67,7 @@ The following models from the paper are available on Hugging Face.
 
 ## Results
 
-<img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/b800416e-a982-4d8c-8496-0dc1e1c1bfe5">
+<img width="50%" alt="image" src="https://github.com/ShubhamKumarNigam/PredEx/blob/main/Assets/table3.png">
 <img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/f1d74abc-45fd-4a2e-97ae-bdd95f2df9d3">
 <img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/5b298599-3d55-4458-bdbe-5ec01696f68f">
 
@@ -75,12 +75,14 @@ The following models from the paper are available on Hugging Face.
 ## Citation
 If you use our method or models, please cite [our paper](https://arxiv.org/abs/2305.01625):
 ```
-@article{bertsch2023unlimiformer,
-  title={Unlimiformer: Long-Range Transformers with Unlimited Length Input},
-  author={Bertsch, Amanda and Alon, Uri and Neubig, Graham and Gormley, Matthew R},
-  journal={arXiv preprint arXiv:2305.01625},
-  year={2023}
-}   
+@inproceedings{
+anonymous2024legal,
+title={Legal Judgment Reimagined: PredEx and the Rise of Intelligent {AI} Interpretation in Indian Courts},
+author={Anonymous},
+booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
+year={2024},
+url={https://openreview.net/forum?id=aZIwY6nOBq}
+}  
 ```
 
 
