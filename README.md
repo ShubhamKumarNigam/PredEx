@@ -1,3 +1,87 @@
-# Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts
+# Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts (ACL 2024)
+![task_desc.jpg](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
 
-This paper presents **_PredEx_**, the largest annotated dataset for legal judgment prediction and explanation in the Indian context. This unique corpus enhances the training and evaluation of AI models in legal analysis. Our work innovates by applying instruction tuning to Large Language Models (LLMs), significantly improving their predictive accuracy and explanatory depth for legal judgments. We employed various transformer-based models, tailored for both general and Indian legal contexts. Through a combination of lexical, semantic, and expert assessments, we demonstrate the effectiveness of our approach. Despite challenges like handling extensive documents and reducing hallucinations, our results are promising, indicating a significant leap forward in AI-assisted legal judgment prediction and explanation. This study not only contributes a groundbreaking dataset but also paves the way for future advancements in AI-assisted legal judgment prediction and explanation.
+This is the official implementation of the paper:
+
+[Shubham Kumar Nigam](https://sites.google.com/view/shubhamkumarnigam), [Anurag Sharma](https://www.linkedin.com/in/anuragsharma321/), [Danush Khanna](https://www.linkedin.com/in/danushk/), [Noel Shallum](), [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home), and [Arnab Bhattacharya](https://www.cse.iitk.ac.in/users/arnabb/) :  
+[Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts](https://shorturl.at/qeuWr) (to appear in **ACL 2024**)
+
+LLMs, used for legal outcome prediction and explainability, face challenges due to the complexity of legal proceedings and limited expert-annotated data. PredEx tackles this with the largest expert-annotated dataset based on Indian legal documents, featuring over 15,000 annotations. Our best Transformer model, Roberta, achieves 78% accuracy, surpassing LLama-2-7B at 38% and human experts at 73%. PredEx sets a new benchmark for legal judgment prediction in the NLP community!     
+See also our [**Linkedin Post**](https://www.linkedin.com/posts/shubham-kumar-nigam-34670541_pdf-activity-7196821209903181825-tki8?utm_source=share&utm_medium=member_desktop).
+
+PredEx can be used to improve the performance of already-trained large language models not only in legal outcome prediction but also in providing meaningful reasoning behind their decisions. For best results, the models can be trained with PredEx.
+
+If you have any questions on this work, please open a [GitHub issue](https://github.com/ShubhamKumarNigam/PredEx/issues) or email the authors at ```shubhamkumarnigam@gmail.com, anuragsharma3211@gmail.com, danush.s.khanna@gmail.com```
+
+## **_May 2024_** - PredEx will appear at ACL 2024!
+
+## Getting Started
+
+### General Instructions
+
+Ensure you have the necessary hardware and software requirements in place to replicate our experimental setup. Follow the steps below to configure your environment for optimal performance.
+
+## Recommended Hardware Configuration
+
+### Hardware Specifications
+
+- Utilize two cores of [NVIDIA A100-PCIE-40GB](https://www.nvidia.com/en-gb/data-center/a100/) with 126GB RAM of 32 cores for instruction fine-tuning.
+- Additionally, a Google Colab Pro subscription with A100 Hardware accelerator is recommended for conducting inference and other experiments.
+
+## Recommended Software Configuration
+
+### Software Setup
+
+- Set up the environment with appropriate drivers and libraries for GPU acceleration.
+- Install necessary dependencies for model training and inference.
+
+## Model Training Specifics
+
+### Fine-tuning Parameters
+
+- Fine-tune the Large Language Models (LLMs) for 5 epochs to achieve a balance between training adequacy and preventing overfitting.
+
+### Post-processing for Quality Enhancement
+
+- Implement a post-processing step after inference to mitigate common issues with generative models, such as sentence hallucination and repetition.
+- Select the initial occurrences of decision and explanation parts from the model outputs and omit subsequent repetitions to refine output quality, ensuring coherence and conciseness.
+
+## Evaluation Process
+
+### Handling Non-inferential Results
+
+- Exclude cases where certain LLMs do not yield inference results to maintain the integrity and accuracy of experimental findings.
+- By excluding non-inferential results, ensure that the evaluation process remains unbiased and reflective of the models' performance.
+
+
+## Trained Models
+The following models from the paper are available on Hugging Face. 
+
+
+| Dataset |  Method | Hugging Face link |
+| ------------- | ------------- | ------------- |
+| Predex | Baseline: BART-base  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
+| Predex | BART-base + Unlimiformer early stopping  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
+| Predex | BART-base + Unlimiformer (random-encoding training)  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
+| Predex | BART-base + Unlimiformer (alternating training)  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
+
+## Results
+
+<img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/b800416e-a982-4d8c-8496-0dc1e1c1bfe5">
+<img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/f1d74abc-45fd-4a2e-97ae-bdd95f2df9d3">
+<img width="50%" alt="image" src="https://github.com/abertsch72/unlimiformer/assets/15002544/5b298599-3d55-4458-bdbe-5ec01696f68f">
+
+
+## Citation
+If you use our method or models, please cite [our paper](https://arxiv.org/abs/2305.01625):
+```
+@article{bertsch2023unlimiformer,
+  title={Unlimiformer: Long-Range Transformers with Unlimited Length Input},
+  author={Bertsch, Amanda and Alon, Uri and Neubig, Graham and Gormley, Matthew R},
+  journal={arXiv preprint arXiv:2305.01625},
+  year={2023}
+}   
+```
+
+
+
