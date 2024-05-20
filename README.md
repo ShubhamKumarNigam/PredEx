@@ -80,7 +80,7 @@ The following models from the paper (Table 3) are available on Hugging Face.
 | Predex | Llama-2-7B  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
 | Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
 
-## Table 3: Prediction with explanation on ILDC Expert, LLM based models
+### Table 3: Prediction with explanation on ILDC Expert, LLM based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | ILDC Expert | Llama-2-7B  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
