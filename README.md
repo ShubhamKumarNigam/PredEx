@@ -75,12 +75,14 @@ The following models from the paper are available on Hugging Face.
 ## Citation
 If you use our method or models, please cite [our paper](https://arxiv.org/abs/2305.01625):
 ```
-@article{bertsch2023unlimiformer,
-  title={Unlimiformer: Long-Range Transformers with Unlimited Length Input},
-  author={Bertsch, Amanda and Alon, Uri and Neubig, Graham and Gormley, Matthew R},
-  journal={arXiv preprint arXiv:2305.01625},
-  year={2023}
-}   
+@inproceedings{
+anonymous2024legal,
+title={Legal Judgment Reimagined: PredEx and the Rise of Intelligent {AI} Interpretation in Indian Courts},
+author={Anonymous},
+booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
+year={2024},
+url={https://openreview.net/forum?id=aZIwY6nOBq}
+}  
 ```
 
 
