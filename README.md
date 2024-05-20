@@ -73,7 +73,7 @@ The following models from the paper are available on Hugging Face.
 
 
 ## Citation
-If you use our method or models, please cite [our paper](https://arxiv.org/abs/2305.01625):
+If you use our method or models, please cite [our paper](https://shorturl.at/qeuWr):
 ```
 @inproceedings{
 anonymous2024legal,
