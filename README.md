@@ -55,9 +55,33 @@ Ensure you have the necessary hardware and software requirements in place to rep
 
 
 ## Trained Models
-The following models from the paper are available on Hugging Face. 
+The following models from the paper (Table 3) are available on Hugging Face. 
 
+### Table 3: Prediction only, LM based models
+| Dataset |  Method | Hugging Face link |
+| ------------- | ------------- | ------------- |
+| Predex | Baseline: BART-base  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
+| Predex | BART-base + Unlimiformer early stopping  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
+| Predex | BART-base + Unlimiformer (random-encoding training)  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
+| Predex | BART-base + Unlimiformer (alternating training)  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
 
+### Table 3: Prediction only, LLM based models
+| Dataset |  Method | Hugging Face link |
+| ------------- | ------------- | ------------- |
+| Predex | Baseline: BART-base  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
+| Predex | BART-base + Unlimiformer early stopping  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
+| Predex | BART-base + Unlimiformer (random-encoding training)  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
+| Predex | BART-base + Unlimiformer (alternating training)  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
+
+### Table 3: Prediction with explanation on PredEx, LLM based models
+| Dataset |  Method | Hugging Face link |
+| ------------- | ------------- | ------------- |
+| Predex | Baseline: BART-base  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
+| Predex | BART-base + Unlimiformer early stopping  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
+| Predex | BART-base + Unlimiformer (random-encoding training)  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
+| Predex | BART-base + Unlimiformer (alternating training)  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
+
+## Table 3: Prediction with explanation on ILDC Expert, LLM based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | Baseline: BART-base  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
