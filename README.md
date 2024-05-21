@@ -91,7 +91,7 @@ The following models from the paper (Table 3) are available on Hugging Face.
 
 <img width="50%" alt="image" src="https://github.com/ShubhamKumarNigam/PredEx/blob/main/Assets/table3.png">
 <img width="75%" alt="image" src="https://github.com/ShubhamKumarNigam/PredEx/blob/main/Assets/table4.png">
-<img width="50%" alt="image" src="https://github.com/ShubhamKumarNigam/PredEx/blob/main/Assets/table5.png">
+<img width="40%" alt="image" src="https://github.com/ShubhamKumarNigam/PredEx/blob/main/Assets/table5.png">
 
 
 ## Citation
