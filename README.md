@@ -13,7 +13,7 @@ PredEx can be used to improve the performance of already-trained large language 
 
 If you have any questions on this work, please open a [GitHub issue](https://github.com/ShubhamKumarNigam/PredEx/issues) or email the authors at ```shubhamkumarnigam@gmail.com, anuragsharma3211@gmail.com, danush.s.khanna@gmail.com```
 
-## **_May 2024_** - PredEx will appear at ACL 2024!
+## **May 2024** - PredEx will appear at ACL 2024!
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ Ensure you have the necessary hardware and software requirements in place to rep
 ## Trained Models
 The following models from the paper (Table 3) are available on Hugging Face. 
 
-### Table 3: Prediction only, LM based models
+### Table 1: Prediction only, LM-based models on PredEx
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | InLegalBert  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
@@ -65,7 +65,7 @@ The following models from the paper (Table 3) are available on Hugging Face.
 | Predex | XLNet Large  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
 | Predex | RoBerta Large  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
 
-### Table 3: Prediction only, LLM based models
+### Table 2: Prediction only, LLM-based models on PredEx
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | Zephyr  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
@@ -73,14 +73,14 @@ The following models from the paper (Table 3) are available on Hugging Face.
 | Predex | Llama-2-7B  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
 | Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
 
-### Table 3: Prediction with explanation on PredEx, LLM based models
+### Table 3: Prediction with the explanation on PredEx, LLM-based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | Gemini pro  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
 | Predex | Llama-2-7B  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
 | Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
 
-### Table 3: Prediction with explanation on ILDC Expert, LLM based models
+### Table 4: Prediction with the explanation on ILDC Expert, LLM-based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | ILDC Expert | Llama-2-7B  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
