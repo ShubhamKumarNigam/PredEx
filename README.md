@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./logo.png" width="80" alt="L-NLP" />
+<img src="L-NLP_Logo.jpeg" width="80" alt="L-NLP" />
 <br>
 Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts (ACL 2024)
 </h1>
