@@ -5,7 +5,7 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg" alt="task_desc" width="400">
+  <img src="https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg" alt="task_desc" width="1000">
 </p>
 
 <p align="center">
