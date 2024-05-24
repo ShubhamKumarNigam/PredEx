@@ -12,9 +12,13 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Models]</b></a> •
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Dataset]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🐱 GitHub]</b></a>
+</p>
 
+<p align="center">
   This is the official implementation of the paper:
-  
+</p>
+
+<p align="center">
   <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>, <a href="https://www.linkedin.com/in/anuragsharma321/">Anurag Sharma</a>, <a href="https://www.linkedin.com/in/danushk/">Danush Khanna</a>, <a href="#">Noel Shallum</a>, <a href="https://sites.google.com/view/kripabandhughosh-homepage/home">Kripabandhu Ghosh</a>, and <a href="https://www.cse.iitk.ac.in/users/arnabb/">Arnab Bhattacharya</a>:
 </p>
 
