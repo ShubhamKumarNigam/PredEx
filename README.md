@@ -31,7 +31,8 @@ See also our [**Linkedin Post**](https://www.linkedin.com/posts/shubham-kumar-ni
 
 PredEx can be used to improve the performance of already-trained large language models not only in legal outcome prediction but also in providing meaningful reasoning behind their decisions. For best results, the models can be trained with PredEx.
 
-If you have any questions on this work, please open a [GitHub issue](https://github.com/ShubhamKumarNigam/PredEx/issues) or email the authors at ```shubhamkumarnigam@gmail.com, anuragsharma3211@gmail.com, danush.s.khanna@gmail.com```
+If you have any questions on this work, please open a [GitHub issue](https://github.com/ShubhamKumarNigam/PredEx/issues) or email the authors at
+```shubhamkumarnigam@gmail.com, anuragsharma3211@gmail.com, danush.s.khanna@gmail.com```
 
 ## **May 2024** - PredEx will appear at ACL 2024!
 
