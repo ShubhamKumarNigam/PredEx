@@ -78,7 +78,7 @@ The following models from the paper (Table 3) are available on Hugging Face.
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | Gemini pro  | [L-NLProc/PredEx_Gemini_Pro_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Gemini_Pro_Pred-Exp)  |
-| Predex | Llama-2-7B  | [https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp) |
+| Predex | Llama-2-7B  | [L-NLProc/PredEx_Llama-2-7B_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp) |
 | Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned)  |
 
 ### Table 4: Prediction with the explanation on ILDC Expert, LLM-based models
