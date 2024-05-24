@@ -18,7 +18,7 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
 Repo for "<a href="https://shorturl.at/qeuWr" target="_blank">Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Models</a>"
 </p>
 
-This is the official implementation of the paper "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts</a>"(to appear in **ACL 2024**)
+This is the official implementation of the paper "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts</a>" (to appear in **ACL 2024**)
 
 [Shubham Kumar Nigam](https://sites.google.com/view/shubhamkumarnigam), [Anurag Sharma](https://www.linkedin.com/in/anuragsharma321/), [Danush Khanna](https://www.linkedin.com/in/danushk/), [Noel Shallum](), [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home), and [Arnab Bhattacharya](https://www.cse.iitk.ac.in/users/arnabb/) :  
 
