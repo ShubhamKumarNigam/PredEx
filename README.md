@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./logo.png" width="100" alt="Symbol-LLM" />
+<img src="./logo.png" width="100" alt="" />
 <br>
 Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts (ACL 2024)
 </h1>
