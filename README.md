@@ -7,11 +7,11 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
 ![task_desc](https://github.com/ShubhamKumarNigam/PredEx/raw/main/Assets/task_desc.jpg)
 
 <p align="center">
-  <a href="https://xufangzhi.github.io/symbol-llm-page/"><b>[🌐 Website]</b></a> •
-  <a href="https://arxiv.org/abs/2311.09278"><b>[📜 Paper]</b></a> •
-  <a href="https://huggingface.co/Symbol-LLM/Symbol-LLM-7B-Instruct"><b>[🤗 HF Models]</b></a> •
-  <a href="https://huggingface.co/datasets/Symbol-LLM/Symbolic_Collection"><b>[🤗 HF Dataset]</b></a> •
-  <a href="https://github.com/xufangzhi/Symbol-LLM"><b>[🐱 GitHub]</b></a>
+  <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🌐 Website]</b></a> •
+  <a href="https://shorturl.at/qeuWr"><b>[📜 Paper]</b></a> •
+  <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Models]</b></a> •
+  <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Dataset]</b></a> •
+  <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🐱 GitHub]</b></a>
 </p>
 
 <p align="center">
