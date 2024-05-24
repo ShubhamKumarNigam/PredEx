@@ -91,14 +91,14 @@ The following models from the paper (Table 3) are available on Hugging Face.
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
 | Predex | Zephyr  | [L-NLProc/PredEx_Zephyr_Pred](https://huggingface.co/L-NLProc/PredEx_Zephyr_Pred)  |
-| Predex | Gemini pro  | [L-NLProc/PredEx_Gemini_Pro_Pred](https://huggingface.co/L-NLProc/PredEx_Gemini_Pro_Pred) |
+| Predex | Gemini pro  | [Build with Gemini API](https://ai.google.dev/gemini-api?gad_source=1) |
 | Predex | Llama-2-7B  | [L-NLProc/PredEx_Llama-2-7B_Pred](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred)  |
 | Predex | Llama-2-7B Instruction-tuning on prediction task  | [L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned)  |
 
 ### Table 3: Prediction with the explanation on PredEx, LLM-based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| Predex | Gemini pro  | [L-NLProc/PredEx_Gemini_Pro_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Gemini_Pro_Pred-Exp)  |
+| Predex | Gemini pro  | [Build with Gemini API](https://ai.google.dev/gemini-api?gad_source=1)  |
 | Predex | Llama-2-7B  | [L-NLProc/PredEx_Llama-2-7B_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp) |
 | Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned)  |
 
