@@ -12,13 +12,13 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Models]</b></a> •
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Dataset]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🐱 GitHub]</b></a>
-</p>
 
 This is the official implementation of the paper:
 
 [Shubham Kumar Nigam](https://sites.google.com/view/shubhamkumarnigam), [Anurag Sharma](https://www.linkedin.com/in/anuragsharma321/), [Danush Khanna](https://www.linkedin.com/in/danushk/), [Noel Shallum](), [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home), and [Arnab Bhattacharya](https://www.cse.iitk.ac.in/users/arnabb/):
 
 [Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts](https://shorturl.at/qeuWr) (to appear in **ACL 2024**)
+</p>
 
 LLMs, used for legal outcome prediction and explainability, face challenges due to the complexity of legal proceedings and limited expert-annotated data. PredEx tackles this with the largest expert-annotated dataset based on Indian legal documents, featuring over 15,000 annotations. Our best Transformer model, Roberta, achieves 78% accuracy, surpassing LLama-2-7B at 38% and human experts at 73%. PredEx sets a new benchmark for legal judgment prediction in the NLP community!     
 See also our [**Linkedin Post**](https://www.linkedin.com/posts/shubham-kumar-nigam-34670541_pdf-activity-7196821209903181825-tki8?utm_source=share&utm_medium=member_desktop).
