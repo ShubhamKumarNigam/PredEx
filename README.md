@@ -12,14 +12,14 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Models]</b></a> •
   <a href="https://huggingface.co/L-NLProc"><b>[🤗 HF Dataset]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🐱 GitHub]</b></a>
+
+  This is the official implementation of the paper:
+  
+  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>, <a href="https://www.linkedin.com/in/anuragsharma321/">Anurag Sharma</a>, <a href="https://www.linkedin.com/in/danushk/">Danush Khanna</a>, <a href="#">Noel Shallum</a>, <a href="https://sites.google.com/view/kripabandhughosh-homepage/home">Kripabandhu Ghosh</a>, and <a href="https://www.cse.iitk.ac.in/users/arnabb/">Arnab Bhattacharya</a>:
 </p>
 
 <p align="center">
-  This is the official implementation of the paper:
-  
-  [Shubham Kumar Nigam](https://sites.google.com/view/shubhamkumarnigam), [Anurag Sharma](https://www.linkedin.com/in/anuragsharma321/), [Danush Khanna](https://www.linkedin.com/in/danushk/), [Noel Shallum](), [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home), and [Arnab Bhattacharya](https://www.cse.iitk.ac.in/users/arnabb/):
-  
-  [Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts](https://shorturl.at/qeuWr) (to appear in **ACL 2024**)
+  <a href="https://shorturl.at/qeuWr">Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts</a> (to appear in <strong>ACL 2024</strong>)
 </p>
 
 LLMs, used for legal outcome prediction and explainability, face challenges due to the complexity of legal proceedings and limited expert-annotated data. PredEx tackles this with the largest expert-annotated dataset based on Indian legal documents, featuring over 15,000 annotations. Our best Transformer model, Roberta, achieves 78% accuracy, surpassing LLama-2-7B at 38% and human experts at 73%. PredEx sets a new benchmark for legal judgment prediction in the NLP community!     
