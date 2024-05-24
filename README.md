@@ -61,18 +61,18 @@ The following models from the paper (Table 3) are available on Hugging Face.
 ### Table 1: Prediction only, LM-based models on PredEx
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| Predex | InLegalBert  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
-| Predex | InCaseLaw  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
-| Predex | XLNet Large  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
-| Predex | RoBerta Large  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
+| Predex | InLegalBert  | [L-NLProc/PredEx_InLegalBert_Pred](https://huggingface.co/L-NLProc/PredEx_InLegalBert_Pred)  |
+| Predex | InCaseLaw  | [L-NLProc/PredEx_InCaseLaw_Pred](https://huggingface.co/L-NLProc/PredEx_InCaseLaw_Pred) |
+| Predex | XLNet Large  | [L-NLProc/PredEx_XLNet_Large_Pred](https://huggingface.co/L-NLProc/PredEx_XLNet_Large_Pred)  |
+| Predex | RoBerta Large  | [L-NLProc/PredEx_RoBERTa_Large_Pred](https://huggingface.co/L-NLProc/PredEx_RoBERTa_Large_Pred)  |
 
 ### Table 2: Prediction only, LLM-based models on PredEx
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| Predex | Zephyr  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
-| Predex | Gemini pro  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
-| Predex | Llama-2-7B  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
-| Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-alternating](https://huggingface.co/abertsch/unlimiformer-bart-booksum-alternating)  |
+| Predex | Zephyr  | [L-NLProc/PredEx_Zephyr_Pred](https://huggingface.co/L-NLProc/PredEx_Zephyr_Pred)  |
+| Predex | Gemini pro  | [L-NLProc/PredEx_Gemini_Pro_Pred](https://huggingface.co/L-NLProc/PredEx_Gemini_Pro_Pred) |
+| Predex | Llama-2-7B  | [L-NLProc/PredEx_Llama-2-7B_Pred](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred)  |
+| Predex | Llama-2-7B Instruction-tuning on prediction task  | [L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned)  |
 
 ### Table 3: Prediction with the explanation on PredEx, LLM-based models
 | Dataset |  Method | Hugging Face link |
