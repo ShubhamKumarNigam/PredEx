@@ -77,15 +77,15 @@ The following models from the paper (Table 3) are available on Hugging Face.
 ### Table 3: Prediction with the explanation on PredEx, LLM-based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| Predex | Gemini pro  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
-| Predex | Llama-2-7B  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
-| Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-random-encoding](https://huggingface.co/abertsch/unlimiformer-bart-booksum-random-encoding)  |
+| Predex | Gemini pro  | [L-NLProc/PredEx_Gemini_Pro_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Gemini_Pro_Pred-Exp)  |
+| Predex | Llama-2-7B  | [https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp) |
+| Predex | Llama-2-7B Instruction-tuning on prediction with explanation task  | [L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred-Exp_Instruction-Tuned)  |
 
 ### Table 4: Prediction with the explanation on ILDC Expert, LLM-based models
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| ILDC Expert | Llama-2-7B  | [abertsch/bart-base-booksum](https://huggingface.co/abertsch/bart-base-booksum)  |
-| ILDC Expert | Llama-2-7B Instruction-tuning on prediction with explanation task  | [abertsch/unlimiformer-bart-booksum-earlyk](https://huggingface.co/abertsch/unlimiformer-bart-booksum-earlyk) |
+| ILDC Expert | Llama-2-7B  | [L-NLProc/ILDC_Llama-2-7B_Pred-Exp](https://huggingface.co/L-NLProc/ILDC_Llama-2-7B_Pred-Exp)  |
+| ILDC Expert | Llama-2-7B Instruction-tuning on prediction with explanation task  | [L-NLProc/ILDC_Llama-2-7B_Pred-Exp_Instruction-Tuned](https://huggingface.co/L-NLProc/ILDC_Llama-2-7B_Pred-Exp_Instruction-Tuned) |
 
 ## Results
 
