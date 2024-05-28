@@ -90,7 +90,7 @@ The following models from the paper (Table 3) are available on Hugging Face.
 ### Table 2: Prediction only, LLM-based models on PredEx
 | Dataset |  Method | Hugging Face link |
 | ------------- | ------------- | ------------- |
-| Predex | Zephyr  | [Zephyr Hugging Face API](HuggingFaceH4/zephyr-7b-beta)  |
+| Predex | Zephyr  | [Zephyr Hugging Face API](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)  |
 | Predex | Gemini pro  | [Build with Gemini API](https://ai.google.dev/gemini-api?gad_source=1) |
 | Predex | Llama-2-7B  | [L-NLProc/PredEx_Llama-2-7B_Pred](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred)  |
 | Predex | Llama-2-7B Instruction-tuning on prediction task  | [L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned](https://huggingface.co/L-NLProc/PredEx_Llama-2-7B_Pred_Instruction-Tuned)  |
