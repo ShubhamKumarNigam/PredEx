@@ -14,7 +14,7 @@
 
 ### Gemini pro
 1. [Gemini-pro_prediction.csv](https://drive.google.com/file/d/1yW_jg2yhkI8wBDG-w5l15wQlPtYs3o1p/view?usp=sharing)
-2. [Gemini-pro_prediction_explanation.csv](https://drive.google.com/file/d/1tYYLyHFmvAGan3tEPSopLtIZpCEDWlK0/view?usp=sharing)
+2. [Gemini-pro_prediction_explanation.csv](https://drive.google.com/file/d/1ZW1kxKB7jd3jl4itbwEBmXPuDkih_3oA/view?usp=sharing)
 
 ### Results of Judgment Prediction using transformer models:
 
