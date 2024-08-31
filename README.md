@@ -8,7 +8,8 @@ Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation 
 
 <p align="center">
   <a href="https://huggingface.co/L-NLProc"><b>[🌐 Website]</b></a> •
-  <a href="https://arxiv.org/abs/2406.04136"><b>[📜 Paper]</b></a> •
+  <a href="https://aclanthology.org/2024.findings-acl.255/"><b>[📜 Proceedings]</b></a> •
+  <a href="https://arxiv.org/abs/2406.04136"><b>[📜 ArXiv]</b></a> •
   <a href="https://huggingface.co/collections/L-NLProc/predex-models-66509d3f4de624770d690a48"><b>[🤗 HF Models]</b></a> •
   <a href="https://huggingface.co/collections/L-NLProc/predex-datasets-6650a75907cc2255eab18d01"><b>[🤗 HF Dataset]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/PredEx"><b>[🐱 GitHub]</b></a>
