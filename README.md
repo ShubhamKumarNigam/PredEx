@@ -117,16 +117,29 @@ The following models from the paper (Table 3) are available on Hugging Face.
 
 
 ## Citation
-If you use our method or models, please cite [our paper](https://arxiv.org/abs/2406.04136):
+If you use our method or models, please cite [our paper](https://aclanthology.org/2024.findings-acl.255/):
 ```
-@misc{nigam2024legal,
-      title={Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts}, 
-      author={Shubham Kumar Nigam and Anurag Sharma and Danush Khanna and Noel Shallum and Kripabandhu Ghosh and Arnab Bhattacharya},
-      year={2024},
-      eprint={2406.04136},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-} 
+@inproceedings{nigam-etal-2024-legal,
+    title = "Legal Judgment Reimagined: {P}red{E}x and the Rise of Intelligent {AI} Interpretation in {I}ndian Courts",
+    author = "Nigam, Shubham  and
+      Sharma, Anurag  and
+      Khanna, Danush  and
+      Shallum, Noel  and
+      Ghosh, Kripabandhu  and
+      Bhattacharya, Arnab",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.255",
+    doi = "10.18653/v1/2024.findings-acl.255",
+    pages = "4296--4315",
+    abstract = "In the era of Large Language Models (LLMs), predicting judicial outcomes poses significant challenges due to the complexity of legal proceedings and the scarcity of expert-annotated datasets. Addressing this, we introduce \textbf{Pred}iction with \textbf{Ex}planation (PredEx), the largest expert-annotated dataset for legal judgment prediction and explanation in the Indian context, featuring over 15,000 annotations. This groundbreaking corpus significantly enhances the training and evaluation of AI models in legal analysis, with innovations including the application of instruction tuning to LLMs. This method has markedly improved the predictive accuracy and explanatory depth of these models for legal judgments. We employed various transformer-based models, tailored for both general and Indian legal contexts. Through rigorous lexical, semantic, and expert assessments, our models effectively leverage PredEx to provide precise predictions and meaningful explanations, establishing it as a valuable benchmark for both the legal profession and the NLP community.",
+}
 ```
 
 
