@@ -119,6 +119,16 @@ The following models from the paper (Table 3) are available on Hugging Face.
 ## Citation
 If you use our method or models, please cite [our paper](https://aclanthology.org/2024.findings-acl.255/):
 ```
+@inproceedings{nigam2024legal,
+  title={Legal judgment reimagined: PredEx and the rise of intelligent AI interpretation in Indian courts},
+  author={Nigam, Shubham Kumar and Sharma, Anurag and Khanna, Danush and Shallum, Noel and Ghosh, Kripabandhu and Bhattacharya, Arnab},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  pages={4296--4315},
+  year={2024}
+}
+
+or
+
 @inproceedings{nigam-etal-2024-legal,
     title = "Legal Judgment Reimagined: {P}red{E}x and the Rise of Intelligent {AI} Interpretation in {I}ndian Courts",
     author = "Nigam, Shubham  and
